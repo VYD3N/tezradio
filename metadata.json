@@ -1,0 +1,5 @@
+{
+  "name": "Radio",
+  "description": "Radio: A sleek, filterable music player for Tezos-based music NFTs.",
+  "requestFramePermissions": []
+}
