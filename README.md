@@ -2,6 +2,8 @@
 
 A sleek, filterable music player for Tezos-based music NFTs. This application connects to a pre-configured Supabase database to discover and play music NFTs minted on the Tezos blockchain.
 
+🎵 **[Live Demo](https://tezradio.vercel.app/)** - Try the radio player now!
+
 ## How the Radio Finds Music
 
 The radio application discovers music through a Supabase database that indexes music NFTs from the Tezos blockchain. Here's how it works:
